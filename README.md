@@ -13,6 +13,8 @@
 
 **Validador de Billetes Bolivianos** | App para identificar billetes del avión de El Alto
 
+🌐 **Página oficial:** [bchecverify.netlify.app](https://bchecverify.netlify.app)
+
 [![Flutter Version](https://img.shields.io/badge/Flutter-3.0+-blue.svg)](https://flutter.dev)
 [![Android](https://img.shields.io/badge/Android-5.0%2B-brightgreen.svg)](https://www.android.com)
 
@@ -42,3 +44,12 @@
 - Flutter 3.x
 - Camera + ML Kit
 - Firebase
+
+## 👨‍💻 Desarrolladores
+
+- [ElTioCrack](https://github.com/ElTioCrack)
+- [GamerMaik](https://github.com/GamerMaik)
+
+---
+
+Desarrollado con ❤️ para Bolivia
